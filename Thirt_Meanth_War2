@@ -1,0 +1,2 @@
+print "samuel"
+user_input = gets.chomp
